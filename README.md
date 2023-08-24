@@ -30,7 +30,7 @@ Tutorial:
 
 7. Go back to the tab settings in the Nekogram application. Then select the only tab with the blank character.
 
-8. Enter the Channel or group you just created into this tab.
+8. Join the Channel or group you just created into this tab.
 
 9. Leave your account from that channel or group. Do not remove the channel from the tab.
 
