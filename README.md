@@ -2,6 +2,12 @@
 
 Simple telegram display custumization inspiration
 
+![img](./img0.jpg)
+
+![img1](./img1.jpeg)
+
+![img2](./img2.jpeg)
+
 Requirements:
 
 - Install nekogram (Telegram client)
